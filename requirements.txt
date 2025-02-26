@@ -1,0 +1,24 @@
+# Create a virtual environment named 'myenv'
+python -m venv myenv
+
+# Activate the virtual environment
+# On Windows:
+myenv\Scripts\activate
+# On macOS/Linux:
+source myenv/bin/activate
+
+# Install the libraries
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
+pip install transformers
+pip install regex
+pip install bitsandbytes
+pip install "accelerate>=0.26.0"
+
+# Deactivate the virtual environment
+deactivate
+
+# Delete the virtual environment
+# On Windows:
+rmdir /s /q myenv
+# On macOS/Linux:
+rm -rf myenv
