@@ -116,7 +116,7 @@ DeepScale R2 is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments 🙏
 
 - **Jarvis AI**:  
-  A special thank you to my personal assistant Jarvis AI for contributing 95% of the code in this project. Your assistance has been invaluable!
+  A special thank you to my personal ai assistant Jarvis AI for contributing 95% of the code in this project. Your assistance has been invaluable!
 - **Hugging Face & PyTorch**:  
   For providing the robust libraries that power our LLM and deep learning functionalities.
 - **Community & Open Source Contributors**:  
