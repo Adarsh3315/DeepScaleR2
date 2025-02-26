@@ -2,8 +2,6 @@
 
 Welcome to **DeepScale R2**, the next evolution in our DeepScale AI series. This demo showcases an engaging, LLM-powered Ultimate Tic Tac Toe game where advanced language models provide strategic move suggestions and detailed chain-of-thought explanations. Built with the invaluable assistance of **Jarvis AI**—which contributed 95% of the coding—this project highlights innovation, creativity, and the power of collaboration. Huge thanks to my personal assistant, Jarvis AI!
 
----
-
 ## Features 🌟
 
 - **LLM-Powered Move Suggestions**: Receive detailed, 200+ word chain-of-thought analyses and recommendations for optimal moves.
@@ -13,8 +11,6 @@ Welcome to **DeepScale R2**, the next evolution in our DeepScale AI series. This
 - **Animated UI with Tkinter**: Experience a dynamic interface complete with animated move placements.
 - **GPU Acceleration Support**: The system can leverage GPU power—minimum recommended is an **RTX 30 series GPU**, though an **RTX 40 series GPU** is recommended for the best and smoothest experience.
 - **Demo-Only Build**: This project is built solely for demo purposes. As such, it features a basic GUI and minimal UI/UX polish. The developer is not affiliated with professional UI/UX design.
-
----
 
 ## Installation 🛠️
 
@@ -61,8 +57,6 @@ Follow these steps to set up DeepScale R2 on your system:
    deactivate
    ```
 
----
-
 ## Running the Application 🚀
 
 Start the Ultimate Tic Tac Toe demo by running the main Python script:
@@ -72,8 +66,6 @@ python main.py
 ```
 
 A new window will open displaying the game interface. Choose your side, and let the Algorithm (powered by advanced LLM analysis) challenge you in a strategic battle of wits!
-
----
 
 ## Usage Guide 📚
 
@@ -93,8 +85,6 @@ A new window will open displaying the game interface. Choose your side, and let 
 > **Demo-Only Notice:**  
 > This project is created strictly for demonstration purposes. As such, the GUI is basic and the developer is not involved with professional UI/UX design.
 
----
-
 ## Advanced Configuration 🛠️
 
 - **GPU Acceleration**:  
@@ -102,8 +92,6 @@ A new window will open displaying the game interface. Choose your side, and let 
 
 - **Model Customization**:  
   Adjust parameters like temperature, response length, and top-k sampling to fine-tune the LLM’s behavior during gameplay analysis.
-
----
 
 ## Troubleshooting 🛑
 
@@ -116,31 +104,23 @@ A new window will open displaying the game interface. Choose your side, and let 
 - **UI Limitations**:  
   Remember, this demo features a basic GUI by design. The focus is on showcasing LLM-powered strategic analysis rather than advanced UI/UX design.
 
----
-
 ## Contributing 🤝
 
 Contributions, bug reports, and feature requests are welcome!  
 Please open an issue or submit a pull request on our GitHub repository if you have suggestions for improvements.
 
----
-
 ## License 📝
 
 DeepScale R2 is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
-
 ## Acknowledgments 🙏
 
 - **Jarvis AI**:  
-  A special thank you to Jarvis AI for contributing 95% of the code in this project. Your assistance has been invaluable!
+  A special thank you to my personal assistant Jarvis AI for contributing 95% of the code in this project. Your assistance has been invaluable!
 - **Hugging Face & PyTorch**:  
   For providing the robust libraries that power our LLM and deep learning functionalities.
 - **Community & Open Source Contributors**:  
   Thank you to all who continue to support and contribute to the open-source ecosystem.
-
----
 
 ## GitHub Repository and Demo Video 📂
 
