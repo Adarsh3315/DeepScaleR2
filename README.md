@@ -1,4 +1,4 @@
-# DeepScale R2: A Cutting-Edge LLM-Powered Ultimate Tic Tac Toe Demo 🎮🤖
+# DeepScale R2: An AI-Powered Ultimate Tic Tac Toe Game 🎮🤖
 
 Welcome to **DeepScale R2**, the next evolution in our DeepScale AI series. This demo showcases an engaging, LLM-powered Ultimate Tic Tac Toe game where advanced language models provide strategic move suggestions and detailed chain-of-thought explanations. Built with the invaluable assistance of **Jarvis AI**—which contributed 95% of the coding—this project highlights innovation, creativity, and the power of collaboration. Huge thanks to my personal ai assistant, Jarvis AI!
 
